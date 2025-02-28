@@ -1,4 +1,3 @@
-Here's a compelling GitHub project description for your **Emotion Detection** project with strong AI, ML, DL, and LLM keywords:  
 
 ---
 
@@ -42,4 +41,4 @@ This project is a **cutting-edge Deep Learning-based Emotion Detection System** 
 
 ---
 
-Let me know if you want any modifications! 😊
+
